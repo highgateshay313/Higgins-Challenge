@@ -13,11 +13,11 @@
     "dump": "npm run build && npm run build:archive && npm run upload"
   },
   "devDependencies": {
-    "@crestron/ch5-crcomlib": "^2.15.0",
-    "@crestron/ch5-utilities-cli": "^2.0.0",
     "vite": "^7.0.4"
   },
   "dependencies": {
+    "@crestron/ch5-crcomlib": "^2.15.0",
+    "@crestron/ch5-utilities-cli": "^2.0.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
 }
