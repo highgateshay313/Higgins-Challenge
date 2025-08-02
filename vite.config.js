@@ -18,5 +18,10 @@ export default {
                 assetFileName: "assets/[name][extname]"
             }
         }
+    },
+    server: {
+        fs: {
+            strict: false
+        }
     }
 }

@@ -10,7 +10,7 @@ document.querySelector('#app').innerHTML = `
 
     <section class="source">
       <div class="display-div">
-        <img id="display" src="/src/assets/display.png" />
+        <img id="display" src="/src/images/display.png" />
          <p>Source</p>
       </div>
     </section>
