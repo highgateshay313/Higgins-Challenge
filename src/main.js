@@ -25,4 +25,4 @@ document.querySelector('#app').innerHTML = `
   </main>
 `
 
-setupCounter(document.querySelector('#counter'))
+
